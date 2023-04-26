@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-* [Ссылка на GitHub Pages](https://)
+* [Ссылка на GitHub Pages]( https://tashapav.github.io/russian-travel-bootcamp)
 
 ### Обзор
 * Интро
