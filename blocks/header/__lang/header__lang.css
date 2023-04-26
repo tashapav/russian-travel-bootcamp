@@ -1,0 +1,14 @@
+.header__lang {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    padding: 1px 0;
+    margin-left: 18px;
+    text-decoration: none;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .header__lang {
+            font-size: 18px;
+        }
+}
